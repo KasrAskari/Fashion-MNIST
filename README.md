@@ -26,10 +26,8 @@ Fashion-MNIST-Classification/
 ## 🛠 Technologies Used  
 - **Python** – Programming language  
 - **TensorFlow/Keras** – Deep learning framework  
-- **NumPy** – Numerical operations  
-- **Pandas** – Data manipulation  
-- **Matplotlib & Seaborn** – Data visualization  
-- **Scikit-learn** – Model evaluation  
+- **NumPy** – Numerical operations    
+- **Matplotlib** – Data visualization    
 
 ---
 
