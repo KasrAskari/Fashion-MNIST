@@ -3,7 +3,7 @@
 ## 📌 Overview  
 This project implements a **deep learning model** for classifying images from the **Fashion-MNIST** dataset. The goal is to accurately predict the category of clothing items using **convolutional neural networks (CNNs)**.  
 
-🚧 This repository is a work in progress and will be continuously updated. 🚧
+🚧 *This repository is a work in progress and will be continuously updated* 🚧
 
 ---
 
