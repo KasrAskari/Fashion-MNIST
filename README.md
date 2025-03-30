@@ -9,7 +9,7 @@ This project implements a **deep learning model** for classifying images from th
 
 ## ✨ Features  
 ✔ **Deep Learning Model:** Uses CNN for high-accuracy image classification.  
-✔ **Fashion-MNIST Dataset:** 70,000 grayscale images (28×28 pixels) across **10 clothing categories**.  
+✔ **Fashion-MNIST Dataset:** 60,000 grayscale images (28×28 pixels) across **10 clothing categories**.  
 ✔ **Interactive Notebook:** Jupyter Notebook for easy exploration and experimentation.  
 ✔ **Visualization & Analysis:** Data preprocessing, feature visualization, and model evaluation.  
 
